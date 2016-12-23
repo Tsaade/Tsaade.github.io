@@ -2,9 +2,8 @@
 layout: post
 title: My goals as a frontend developer
 ---
-
 I have worked in the IT/software industry in the past. I graduated class of 1991 in business administration finance & law but joined a small company by the name if Central Point Software, Inc. soon after.
- 
+
 That was my start in the industry. It was fun, enjoyable and full of learning new things such as the mac OS’s of the time, and later DOS, and windows 3.0 after that. I of course didn’t know any of them except what I used in college when we were introduced to email (the email functionality of the time!) and word processing of the time. Beyond that, it was new to me!
  
 So, I leaned it, got better at it, moved on from company to company such as Intel, and Symantec corp. as well as moving up in position from test engineer to lead engineer to senior software testing engineer. Big company names that paid well and created large development and testing departments. The quality assurance departments preferred development/coding knowledge but didn’t require it. So, from time to time I dabbled in coding from basic to visual basic to C and C++ but never really dug any deeper than the surface and never really took it seriously enough I suppose. That left a gap in my qualifications for the job and more importantly left something missing from my career. On the one hand I had a limitation in the IT industry, and on the other hand I never worked in the finance or accounting fields. The industry I originally trained in.

@@ -2,9 +2,8 @@
 layout: post
 title: My experience with Bloc
 ---
-
 Before coming on Bloc I was in search mode. The problem wasn’t lack of education, or training, it was lack of work and consequently career. I wanted to get certification or re-training in something that interest me but I didn’t want to go back to school for the next few years. I needed a certification program that is no longer then 6 months at the most. Social media provided a few suggestions one of which was Bloc.
- 
+
 So, I investigated some of these suggestions. Attended the introductory session of a couple. One of these was Bloc. But I still wasn’t sold and was still concerned about the 27 weeks time frame. The “what if I don’t do well in the training” question loomed over my head also. It took me a while to finally decide to follow through on the singing up and get through the hurdle of setting up the student loan. But once done, the work began with a fair amount of apprehension, of course! 
  
 Phase 1 as usual was full of new stuff, and getting to know my mentor. Learning HTML and CSS for the first time. I felt like I couldn’t remember the stuff! It was easy to understand. Wasn’t difficult to read or write, but I just did think I will be able to remember all the stuff. But I knew from my initial research that the first few weeks were going to be the most important. It is the fundamentals stage and that’s the base. Get it right and rest will be easier.
