@@ -15,6 +15,6 @@ One day, I stumblled onto an advertizement to learn coding. I thought hmm, why n
 
 One day, I plan to become very very good at this.
 
-wich me luck -:)
+wish me luck -:)
 
 Tarek (aka: T-Rex)
