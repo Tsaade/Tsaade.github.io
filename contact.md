@@ -12,9 +12,9 @@ Please write your message below, and click send. I will reply to your message as
   <input type='hidden' name='redirect_to' value='http://tareksaade.com/thank-you/' />
   <input type='text' name='name' placeholder='Your Name Here' size='75' style="margin-bottom: 10px"/>
 
-  <input type='email' name='email' placeholder='tsaade08@gmail.com' size='75'/>
+  <input type='email' name='email' placeholder='tsaade08@gmail.com' size='75' style="margin-bottom: 10px"/>
   <br/>
-  <textarea name='message' placeholder='' width='75'></textarea>
+  <textarea name='message' placeholder='' style="width:75;height:150px"></textarea>
   <br/>
   <input type='submit' value='Send' />
 </form>
