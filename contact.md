@@ -14,7 +14,7 @@ Please write your message below, and click send. I will reply to your message as
 
   <input type='email' name='email' placeholder='tsaade08@gmail.com' size='75' style="margin-bottom: 10px"/>
   <br/>
-  <textarea name='message' placeholder='' style="width:75;height:150px"></textarea>
+  <textarea name='message' placeholder='' style="width:300;height:150px"></textarea>
   <br/>
   <input type='submit' value='Send' />
 </form>
