@@ -2,7 +2,7 @@
 layout: post
 title: BlocFlix
 thumbnail-path: "img/blocflix.png"
-short-description: A Netflix replica, find movies and watch online!
+short-description: A Netflix replica, find movies & watch online!
 
 ---
 {:.center}
