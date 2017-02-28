@@ -10,11 +10,11 @@ Please write your message below, and click send. I will reply to your message as
 <form action="https://getsimpleform.com/messages?form_api_token=_308e71d1a97740aad802ef978b6fdf10_" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <input type='hidden' name='redirect_to' value='http://tareksaade.com/thank-you/' />
-  <input type='text' name='name' placeholder='Tarek Saade' size="80"/>
-  <br>
-  <input type='email' name='email' placeholder='tsaade08@gmail.com' size="80"/>
-  <br>
-  <textarea name='message' placeholder='' size="90"></textarea>
-  <br>
+  <input type='text' name='name' placeholder='Tarek Saade' size="50"/>
+  <br/>
+  <input type='email' name='email' placeholder='tsaade08@gmail.com' size="50"/>
+  <br/>
+  <textarea name='message' placeholder='' size="50"></textarea>
+  <br/>
   <input type='submit' value='Send' />
 </form>
