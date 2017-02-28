@@ -11,7 +11,7 @@ layout: default
   {% endif %}
 
   <div class="work">
-    <h3>My Work</h3>
+    <h2>My Work</h2>
     {% for project in site.portfolio limit:3 %}
         <li>
           <img src="{{ project.thumbnail-path }}" alt="{{ project.title }}"/>
@@ -22,7 +22,7 @@ layout: default
   </div>
 
   <div class="posts">
-    <h3>My Posts</h3>
+    <h2>My Posts</h2>
     {% for post in paginator.posts %}
     <div class="post-teaser">
       <header>
