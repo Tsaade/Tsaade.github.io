@@ -14,7 +14,7 @@
 }
 // Post listing
 .posts {
-  h2 {
+  h3 {
     padding:5% 20% 0%;
     text-align: center;
   }
@@ -36,7 +36,7 @@
 
 // Work listing
 .work {
-  h2 {
+  h3 {
     text-align: center;
   }
   @extend %padding-regular;
